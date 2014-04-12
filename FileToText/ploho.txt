@@ -1,0 +1,718 @@
+Table of Basic Integrals Basic Forms
+1 Z
+x n
+dx  1
+n 1 x n 1  n 6   1 2 Z
+1
+x dx  ln j x j 3 Z
+udv  uv  Z
+vdu 4 Z 1
+ax  b dx  1
+a ln j ax  b j Integrals of Rational Functions
+5 Z 1
+ x  a  2 dx   1
+x  a 6 Z
+ x  a  n
+dx   x  a  n 1
+n 1 n 6   1 7 Z
+x  x  a  n
+dx   x  a  n 1  n 1 x  a 
+ n 1 n 2 8 Z 1
+1 x 2 dx  tan  1
+x 9 Z 1
+a 2  x 2 dx  1
+a tan  1 x
+a 1
+10 Z x
+a 2  x 2 dx  1
+2 ln j a 2
+ x 2
+j 11 Z x 2
+a 2  x 2 dx  x  a tan  1 x
+a 12 Z x 3
+a 2  x 2 dx  1
+2 x 2
+ 1
+2 a 2
+ln j a 2
+ x 2
+j 13 Z 1
+ax 2  bx  c dx  2
+p
+4 ac  b 2 tan  1 2 ax  b
+p
+4 ac  b 2 14 Z 1
+ x  a  x  b  dx  1
+b  a ln a  x
+b  x  a 6  b 15 Z x
+ x  a  2 dx  a
+a  x ln j a  x j 16 Z x
+ax 2  bx  c dx  1
+2 a ln j ax 2
+ bx  c j b
+a p
+4 ac  b 2 tan  1 2 ax  b
+p
+4 ac  b 2 Integrals with Roots
+17 Z p
+x  a dx  2
+3  x  a  3  2 18 Z 1
+p
+x  a dx  2 p
+x  a 19 Z 1
+p
+a  x dx   2 p
+a  x
+2
+20 Z
+x p
+x  a dx  8
+
+ 2 a
+3  x  a  3  2
+ 2
+5  x  a  5  2
+ or 2
+3 x  x  a  3  2
+ 4
+15  x  a  5  2
+ or 2
+15 2 a 3 x  x  a  3  2 21 Z p
+ax  b dx  
+2 b
+3 a  2 x
+3 
+p
+ax  b 22 Z
+ ax  b  3  2
+dx  2
+5 a  ax  b  5  2 23 Z x
+p
+x  a dx  2
+3  x  2 a  p
+x  a 24 Z r
+x
+a  x dx   p
+x  a  x   a tan  1 p
+x  a  x 
+x  a 25 Z r
+x
+a  x dx  p
+x  a  x   a ln  p
+x  p
+x  a  26 Z
+x p
+ax  b dx  2
+15 a 2   2 b 2
+ abx 3 a 2
+x 2
+ p
+ax  b 27
+Z p
+x  ax  b  dx  1
+4 a 3  2 h
+2 ax  b  p
+ax  ax  b   b 2
+ln 
+
+a p
+x  p
+a  ax  b  
+
+i 28
+Z p
+x 3
+ ax  b  dx  
+b
+12 a  b 2
+8 a 2
+x  x
+3 
+p
+x 3
+ ax  b  b 3
+8 a 5  2 ln 
+
+a p
+x  p
+a  ax  b  
+
+29 Z p
+x 2  a 2 dx  1
+2 x p
+x 2  a 2  1
+2 a 2
+ln 
+
+x  p
+x 2  a 2 
+
+3
+30 Z p
+a 2  x 2 dx  1
+2 x p
+a 2  x 2  1
+2 a 2
+tan  1 x
+p
+a 2  x 2 31 Z
+x p
+x 2  a 2 dx  1
+3 
+x 2
+ a 2  3  2 32 Z 1
+p
+x 2  a 2 dx  ln 
+
+x  p
+x 2  a 2 
+
+33 Z 1
+p
+a 2  x 2 dx  sin  1 x
+a 34 Z x
+p
+x 2  a 2 dx  p
+x 2  a 2 35 Z x
+p
+a 2  x 2 dx   p
+a 2  x 2 36 Z x 2
+p
+x 2  a 2 dx  1
+2 x p
+x 2  a 2  1
+2 a 2
+ln 
+
+x  p
+x 2  a 2 
+
+37
+Z p
+ax 2  bx  cdx  b 2 ax
+4 a p
+ax 2  bx  c  4 ac  b 2
+8 a 3  2 ln 
+
+2 ax  b 2 p
+a  ax 2  bx  c  
+
+Z
+x p
+ax 2  bx  c dx  1
+48 a 5  2 
+2 p
+a p
+ax 2  bx  c 
+ 3 b 2
+2 abx 8 a  c  ax 2
+  3 b 3
+ 4 abc ln 
+
+b 2 ax 2 p
+a p
+ax 2  bx  c 
+
+ 38 4
+39 Z 1
+p
+ax 2  bx  c dx  1
+p
+a ln 
+
+2 ax  b 2 p
+a  ax 2  bx  c  
+
+40
+Z x
+p
+ax 2  bx  c dx  1
+a p
+ax 2  bx  c  b
+2 a 3  2 ln 
+
+2 ax  b 2 p
+a  ax 2  bx  c  
+
+41 Z dx
+ a 2  x 2
+ 3  2  x
+a 2 p
+a 2  x 2 Integrals with Logarithms
+42 Z
+ln ax dx  x ln ax  x 43 Z
+x ln x dx  1
+2 x 2
+ln x  x 2
+4 44 Z
+x 2
+ln x dx  1
+3 x 3
+ln x  x 3
+9 45 Z
+x n
+ln x dx  x n 1 
+ln x
+n 1  1
+ n 1 2 
+ n 6   1 46 Z
+ln ax
+x dx  1
+2 ln ax  2 47 Z
+ln x
+x 2 dx   1
+x  ln x
+x
+5
+48 Z
+ln ax  b  dx  
+x  b
+a 
+ln ax  b   xa 6  0 49 Z
+ln x 2
+ a 2
+ dx  x ln x 2
+ a 2
+2 a tan  1 x
+a  2 x 50 Z
+ln x 2
+ a 2
+ dx  x ln x 2
+ a 2
+ a ln x  a
+x  a  2 x 51
+Z
+ln 
+ax 2
+ bx  c 
+dx  1
+a p
+4 ac  b 2
+tan  1 2 ax  b
+p
+4 ac  b 2  2 x  
+b
+2 a  x 
+ln 
+ax 2
+ bx  c  52 Z
+x ln ax  b  dx  bx
+2 a  1
+4 x 2
+ 1
+2 
+x 2
+ b 2
+a 2 
+ln ax  b  53 Z
+x ln 
+a 2
+ b 2
+x 2 
+dx   1
+2 x 2
+ 1
+2 
+x 2
+ a 2
+b 2 
+ln 
+a 2
+ b 2
+x 2  54 Z
+ln x  2
+dx  2 x  2 x ln x  x ln x  2 55 Z
+ln x  3
+dx   6 x  x ln x  3
+ 3 x ln x  2
+6 x ln x 56 Z
+x ln x  2
+dx  x 2
+4  1
+2 x 2
+ln x  2
+ 1
+2 x 2
+ln x 57 Z
+x 2
+ln x  2
+dx  2 x 3
+27  1
+3 x 3
+ln x  2
+ 2
+9 x 3
+ln x 6
+Integrals with Exponentials
+58 Z
+e ax dx  1
+a e ax 59
+Z
+p
+xe ax dx  1
+a p
+xe ax  i p
+
+2 a 3  2 erf 
+i p
+ax 
+ where erf x   2
+p
+ Z x
+0 e  t 2
+dt 60 Z
+xe x
+dx   x  1 e x 61 Z
+xe ax dx  
+x
+a  1
+a 2 
+e ax 62 Z
+x 2
+e x
+dx  
+x 2
+ 2 x 2 
+e x 63 Z
+x 2
+e ax dx  
+x 2
+a  2 x
+a 2  2
+a 3 
+e ax 64 Z
+x 3
+e x
+dx  
+x 3
+ 3 x 2
+6 x  6 
+e x 65 Z
+x n
+e ax dx  x n
+e ax
+a  n
+a Z
+x n  1
+e ax d x 66 Z
+x n
+e ax dx    1 n
+a n 1 1 n  ax   where  ax   Z 1
+x t a  1
+e  t
+d t 67 Z
+e ax 2
+dx   i p
+
+2 p
+a erf 
+ix p
+a 
+7
+68 Z
+e  ax 2
+dx  p
+
+2 p
+a erf 
+x p
+a  69 Z
+xe  ax 2
+dx   1
+2 a e  ax 2 70 Z
+x 2
+e  ax 2
+dx  1
+4 r
+
+a 3 erf x p
+a   x
+2 a e  ax 2 Integrals with Trigonometric Functions
+71 Z
+sin ax dx   1
+a cos ax 72 Z
+sin 2
+ax dx  x
+2  sin2 ax
+4 a 73 Z
+sin 3
+ax dx   3cos ax
+4 a  cos3 ax
+12 a 74 Z
+sin n
+ax dx   1
+a cos ax 2 F 1 
+1
+2  1  n
+2  3
+2  cos 2
+ax  75 Z
+cos ax dx  1
+a sin ax 76 Z
+cos 2
+ax dx  x
+2  sin2 ax
+4 a 77 Z
+cos 3
+axdx  3sin ax
+4 a  sin3 ax
+12 a 8
+78 Z
+cos p
+axdx   1
+a 1 p  cos 1 p
+ax  2 F 1 
+1 p
+2  1
+2  3 p
+2  cos 2
+ax  79 Z
+cos x sin x dx  1
+2 sin 2
+x  c 1   1
+2 cos 2
+x  c 2   1
+4 cos2 x  c 3 80 Z
+cos ax sin bx dx  cos a  b  x 
+2 a  b   cos a  b  x 
+2 a  b  a 6  b 81 Z
+sin 2
+ax cos bx dx   sin2 a  b  x 
+42 a  b   sin bx
+2 b  sin2 a  b  x 
+42 a  b  82 Z
+sin 2
+x cos x dx  1
+3 sin 3
+x 83 Z
+cos 2
+ax sin bx dx  cos2 a  b  x 
+42 a  b   cos bx
+2 b  cos2 a  b  x 
+42 a  b  84 Z
+cos 2
+ax sin ax dx   1
+3 a cos 3
+ax 85
+Z
+sin 2
+ax cos 2
+bxdx  x
+4  sin2 ax
+8 a  sin2 a  b  x 
+16 a  b   sin2 bx
+8 b  sin2 a  b  x 
+16 a  b  86 Z
+sin 2
+ax cos 2
+ax dx  x
+8  sin4 ax
+32 a 87 Z
+tan ax dx   1
+a lncos ax
+9
+88 Z
+tan 2
+ax dx   x  1
+a tan ax 89 Z
+tan n
+ax dx  tan n 1 ax
+a 1 n   2 F 1 
+n 1
+2  1  n 3
+2   tan 2
+ax  90 Z
+tan 3
+axdx  1
+a lncos ax  1
+2 a sec 2
+ax 91 Z
+sec x dx  ln j sec x tan x j  2tanh  1 
+tan x
+2  92 Z
+sec 2
+ax dx  1
+a tan ax 93 Z
+sec 3
+x dx  1
+2 sec x tan x  1
+2 ln j sec x tan x j 94 Z
+sec x tan x dx  sec x 95 Z
+sec 2
+x tan x dx  1
+2 sec 2
+x 96 Z
+sec n
+x tan x dx  1
+n sec n
+xn 6  0 97 Z
+csc x dx  ln 
+
+tan x
+2 
+
+ ln j csc x  cot x j  C 10
+98 Z
+csc 2
+ax dx   1
+a cot ax 99 Z
+csc 3
+x dx   1
+2 cot x csc x  1
+2 ln j csc x  cot x j 100 Z
+csc n
+x cot x dx   1
+n csc n
+xn 6  0 101 Z
+sec x csc x dx  ln j tan x j ProductsofTrigonometricFunctionsandMono
+mials
+102 Z
+x cos x dx  cos x  x sin x 103 Z
+x cos ax dx  1
+a 2 cos ax  x
+a sin ax 104 Z
+x 2
+cos x dx  2 x cos x  
+x 2
+ 2 
+sin x 105 Z
+x 2
+cos ax dx  2 x cos ax
+a 2  a 2
+x 2
+ 2
+a 3 sin ax 106 Z
+x n
+cos xdx   1
+2  i  n 1  n 1   ix   1 n
+ n 1 ix  11
+107 Z
+x n
+cos ax dx  1
+2  ia  1  n
+  1 n
+ n 1   iax    n 1 ixa  108 Z
+x sin x dx   x cos x sin x 109 Z
+x sin ax dx   x cos ax
+a  sin ax
+a 2 110 Z
+x 2
+sin x dx  
+2  x 2 
+cos x 2 x sin x 111 Z
+x 2
+sin ax dx  2  a 2
+x 2
+a 3 cos ax  2 x sin ax
+a 2 112 Z
+x n
+sin x dx   1
+2  i  n
+ n 1   ix     1 n
+ n 1   ix  113 Z
+x cos 2
+x dx  x 2
+4  1
+8 cos2 x  1
+4 x sin2 x 114 Z
+x sin 2
+x dx  x 2
+4  1
+8 cos2 x  1
+4 x sin2 x 115 Z
+x tan 2
+x dx   x 2
+2 lncos x  x tan x 116 Z
+x sec 2
+x dx  lncos x  x tan x 12
+Products of Trigonometric Functions and Ex
+ponentials
+117 Z
+e x
+sin x dx  1
+2 e x
+sin x  cos x  118 Z
+e bx sin ax dx  1
+a 2  b 2 e bx
+ b sin ax  a cos ax  119 Z
+e x
+cos x dx  1
+2 e x
+sin x cos x  120 Z
+e bx cos ax dx  1
+a 2  b 2 e bx
+ a sin ax  b cos ax  121 Z
+xe x
+sin x dx  1
+2 e x
+cos x  x cos x  x sin x  122 Z
+xe x
+cos x dx  1
+2 e x
+ x cos x  sin x  x sin x  Integrals of Hyperbolic Functions
+123 Z
+cosh ax dx  1
+a sinh ax 124 Z
+e ax cosh bx dx  8
+
+
+
+ e ax
+a 2  b 2  a cosh bx  b sinh bx  a 6  b e 2 ax
+4 a  x
+2 a  b 125 Z
+sinh ax dx  1
+a cosh ax
+13
+126 Z
+e ax sinh bx dx  8
+
+
+
+ e ax
+a 2  b 2   b cosh bx  a sinh bx  a 6  b e 2 ax
+4 a  x
+2 a  b 127 Z
+tanh axdx  1
+a lncosh ax 128 Z
+e ax tanh bx dx  8
+
+
+
+
+
+
+
+
+
+
+
+ e  a 2 b  x
+ a 2 b  2 F 1 h
+1 a
+2 b  1  2 a
+2 b   e 2 bx i  1
+a e ax
+2 F 1 h
+1  a
+2 b  1 a
+2 b   e 2 bx i
+a 6  b e ax  2tan  1
+ e ax 
+a a  b 129 Z
+cos ax cosh bx dx  1
+a 2  b 2  a sin ax cosh bx  b cos ax sinh bx  130 Z
+cos ax sinh bx dx  1
+a 2  b 2  b cos ax cosh bx  a sin ax sinh bx  131 Z
+sin ax cosh bx dx  1
+a 2  b 2   a cos ax cosh bx  b sin ax sinh bx  132 Z
+sin ax sinh bx dx  1
+a 2  b 2  b cosh bx sin ax  a cos ax sinh bx  133 Z
+sinh ax cosh axdx  1
+4 a   2 ax sinh2 ax  134 Z
+sinh ax cosh bx dx  1
+b 2  a 2  b cosh bx sinh ax  a cosh ax sinh bx  c 2014 From httpintegraltablecom  last revised June 14 2014 This mate rial is provided as is without warranty or representation about the accuracy correctness or
+suitability of this material for any purpose This work is licensed under the Creative Com
+mons AttributionNoncommercialShare Alike 30 United States License To view a copy
+of this license visit httpcreativecommonsorglicensesbyncsa30 or send a letter to Creative Commons 171 Second Street Suite 300 San Francisco California
+94105 USA 14

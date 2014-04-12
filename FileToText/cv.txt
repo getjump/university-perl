@@ -1,0 +1,93 @@
+To Valve
+
+Curriculum Vitae
+
+Name : Pavel Savinov
+Graduate : Postgraduate education (Bachelor of Computer Science, Second Course)
+High School : Far Eastern Federal University, Vladivostok, Russia
+
+Languages :
+	Russian - native speaker
+	English - tech level
+
+Programming Languages(sorted by knowledge level higher to lower):
+	PHP
+	Python
+	C
+	C++
+	ASM
+	etc.
+	
+Listened following major subjects:
+	Mathematical analysis
+	Linear Algebra
+	Discrete Math
+	Computer Graphics
+	Groups theory
+	
+Familiar with instruments:
+	PHPStorm
+	Visual Studio
+	IDA
+	OllyDbg
+	etc.
+	
+ Skills:
+	Architecture design of Backends/Apis
+	Architecture of Complex Systems
+	Backend Programming
+	Reversing Skills
+	Design Patterns
+	Popular Methods and Practice knowledge
+
+Familiar on Server Side:
+	*nix family(configurating/setting)
+	Memcached
+	Redis
+	*SQL
+	
+Projects(keywords):
+	Panagea 
+		- Architecture Design
+		- VBulletin integration
+		- Connections Processing
+		- Frontend
+		- Reversing
+			- Anticheats
+			- Other Hacks
+		- Source Engine
+		- Steamworks API
+		- Steam WebApi
+	VLGO(Vladivostok Hackathon award for actual problem and pretty idea)
+		- VK Api
+		- Understanding why much apis sucks
+		- Real represantation of data ranging
+		- Data Mining basics
+	iCutty
+		- Link Cutter
+	Notifier
+		- Long-Polling
+		- Redis(Pub/Sub)
+		- SMS Api
+		- Server Magic
+		- Ass Pain to make PHP async
+	Counter-Strike(GO/Source) Hack
+		- Source SDK
+		- How Source Engine works
+		- Both DLL and RPM/WPM editions
+		- Basics about games hacking
+		
+	Working Expirience:
+		Vinaes (2012-2013) :
+			Backend(Frontend) Developer
+			System Engineer
+			Security Engineer
+		HomeLan (2010-2011) :
+			Setting up some servers
+			Scripts to make systems works
+			Installing and tweaking applications
+		Freelance (2009-Now) :
+			Backend Developer
+			System Engineer
+			Security Engineer
+			etc.
